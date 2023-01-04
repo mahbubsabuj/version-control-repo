@@ -39,19 +39,6 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "cdd92c80-8bef-11ed-89c7-e374f93e1210"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "d2ffcf40-8bf2-11ed-89c7-e374f93e1210"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON"
-  } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : true,
