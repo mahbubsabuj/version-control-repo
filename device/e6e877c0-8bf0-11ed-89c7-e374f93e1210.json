@@ -22,10 +22,10 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "f2377a00-8bef-11ed-89c7-e374f93e1210"
+      "id" : "e6e877c0-8bf0-11ed-89c7-e374f93e1210"
     },
     "label" : null,
-    "name" : "TEST_DEVICE_4",
+    "name" : "TEST_DEVICE_11",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default",
@@ -35,7 +35,7 @@
     }
   },
   "credentials" : {
-    "credentialsId" : "qVyyXdlRWhKRXAeom9UM",
+    "credentialsId" : "v6I9jpMFXykiULLh1jWG",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -47,7 +47,7 @@
     },
     "to" : {
       "entityType" : "DEVICE",
-      "id" : "f2377a00-8bef-11ed-89c7-e374f93e1210"
+      "id" : "e6e877c0-8bf0-11ed-89c7-e374f93e1210"
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON"
@@ -58,7 +58,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1672809819750,
+      "lastUpdateTs" : 1672810230126,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -66,8 +66,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1672810230090,
-      "longValue" : 1672810230041,
+      "lastUpdateTs" : 1672810230126,
+      "longValue" : 1672810230103,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
