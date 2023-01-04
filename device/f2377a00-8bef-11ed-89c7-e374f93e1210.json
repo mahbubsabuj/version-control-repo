@@ -58,16 +58,24 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1672809819750,
+      "lastUpdateTs" : 1672811055473,
       "longValue" : null,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1672810861016,
+      "longValue" : 1672810861008,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1672810230090,
-      "longValue" : 1672810230041,
+      "lastUpdateTs" : 1672811055473,
+      "longValue" : 1672811055435,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
